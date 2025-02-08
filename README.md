@@ -1,5 +1,5 @@
 # Langchain Chatbot
-
+ 
 ## 📌 Overview
 This is a custom AI chatbot built using **Langchain, Qdrant, and Flask**. It extracts technical course data from **Brainlox**, generates embeddings, and stores them in a vector database for efficient semantic search. The chatbot responds to user queries by retrieving the most relevant course information.
 
